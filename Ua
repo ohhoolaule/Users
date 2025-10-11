@@ -1,1 +1,5 @@
-ON
+{
+  "status": "active", 
+  "expire": "2025-10-13", 
+  "msg": "DONT FORGET TO SEND SS OF HITS AT @z3usx and @ZeeusPy"
+}
